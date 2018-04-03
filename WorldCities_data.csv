@@ -1,0 +1,501 @@
+,Country,City
+0,cl,lebu
+1,us,lompoc
+2,ru,belushya guba
+3,ar,ushuaia
+4,ck,avarua
+5,ve,guatire
+6,pf,rikitea
+7,nz,tuatapere
+8,pf,mataura
+9,ws,saleaula
+10,re,saint-philippe
+11,nz,bluff
+12,us,bethel
+13,ru,chokurdakh
+14,ly,nalut
+15,bm,saint george
+16,ca,torbay
+17,sd,juba
+18,us,nome
+19,ye,bajil
+20,es,girona
+21,tz,mafinga
+22,us,sitka
+23,mu,mahebourg
+24,cn,beidao
+25,au,hobart
+26,pe,chicama
+27,gl,illoqqortoormiut
+28,cn,kuche
+29,ca,torbay
+30,co,el paso
+31,au,busselton
+32,za,east london
+33,pf,mataura
+34,ru,ust-omchug
+35,es,muros
+36,ca,haines junction
+37,cv,sao filipe
+38,nz,bluff
+39,us,hilo
+40,ru,nizhneyansk
+41,bo,riberalta
+42,pk,chitral
+43,ni,corn island
+44,br,cidreira
+45,ar,ushuaia
+46,ca,yellowknife
+47,ar,ushuaia
+48,ru,amderma
+49,mu,mahebourg
+50,tr,agva
+51,mx,acapulco
+52,cl,punta arenas
+53,us,kapaa
+54,au,carnarvon
+55,nz,kaitangata
+56,cn,yining
+57,au,new norfolk
+58,ly,surt
+59,ca,torbay
+60,mg,tsihombe
+61,br,alegrete
+62,to,vaini
+63,gl,sisimiut
+64,za,hermanus
+65,us,hilo
+66,cl,punta arenas
+67,us,winnemucca
+68,mg,taolanaro
+69,ru,mosalsk
+70,ch,meiringen
+71,pf,mataura
+72,cn,hami
+73,gl,tasiilaq
+74,na,luderitz
+75,pf,rikitea
+76,za,hermanus
+77,ru,mys shmidta
+78,ws,samusu
+79,ru,chokurdakh
+80,ie,dingle
+81,mg,taolanaro
+82,nz,bluff
+83,ar,ushuaia
+84,au,hobart
+85,ru,khatanga
+86,pf,mataura
+87,ar,ushuaia
+88,ru,ust-kamchatsk
+89,ne,bilma
+90,pg,tari
+91,ar,ushuaia
+92,au,busselton
+93,ck,avarua
+94,sj,barentsburg
+95,jm,portmore
+96,ne,arlit
+97,id,bitung
+98,pg,laiagam
+99,br,passo de camaragibe
+100,jp,katsuura
+101,br,sao gabriel da cachoeira
+102,cl,lebu
+103,au,albany
+104,gl,tasiilaq
+105,ca,chapais
+106,za,port alfred
+107,cl,punta arenas
+108,pf,mataura
+109,to,vaini
+110,za,port alfred
+111,us,kapaa
+112,za,port elizabeth
+113,br,alta floresta
+114,pf,rikitea
+115,br,piacabucu
+116,ru,cherskiy
+117,au,busselton
+118,ar,ushuaia
+119,af,asmar
+120,sh,jamestown
+121,ru,belushya guba
+122,re,saint-philippe
+123,ws,samusu
+124,us,bethel
+125,za,hermanus
+126,py,fuerte olimpo
+127,ws,saleaula
+128,mu,bambous virieux
+129,au,port augusta
+130,us,barrow
+131,ru,khatanga
+132,za,port alfred
+133,sa,najran
+134,ru,zeya
+135,mg,taolanaro
+136,us,twin falls
+137,br,ilhabela
+138,ca,iqaluit
+139,sh,jamestown
+140,us,panama city
+141,pf,mataura
+142,pf,rikitea
+143,us,lompoc
+144,au,albany
+145,is,vestmannaeyjar
+146,za,port alfred
+147,us,hilo
+148,ec,puerto ayora
+149,pg,kavieng
+150,mz,inhambane
+151,za,hermanus
+152,sh,jamestown
+153,us,taylorville
+154,mg,taolanaro
+155,id,lahat
+156,pt,vila franca do campo
+157,mg,mahajanga
+158,us,kapaa
+159,au,albany
+160,cl,castro
+161,mu,bambous virieux
+162,gl,illoqqortoormiut
+163,pf,rikitea
+164,ru,yerbogachen
+165,to,vaini
+166,sk,medzilaborce
+167,ec,puerto ayora
+168,au,albany
+169,pf,rikitea
+170,us,sitka
+171,ca,lacolle
+172,za,kruisfontein
+173,pt,ribeira grande
+174,ro,lapusnicel
+175,mv,ugoofaaru
+176,za,hermanus
+177,ru,egvekinot
+178,ru,buribay
+179,ru,chokurdakh
+180,sh,georgetown
+181,mx,nuevo progreso
+182,mz,beira
+183,au,hobart
+184,ec,puerto ayora
+185,is,husavik
+186,cl,punta arenas
+187,nz,tuatapere
+188,pk,karachi
+189,us,hilo
+190,gl,narsaq
+191,ru,saskylakh
+192,mv,hithadhoo
+193,nz,tuatapere
+194,re,saint-philippe
+195,cl,coquimbo
+196,ca,yellowknife
+197,tv,asau
+198,to,vaini
+199,us,bar harbor
+200,br,arraial do cabo
+201,cd,kasangulu
+202,us,waterloo
+203,au,wodonga
+204,cl,punta arenas
+205,us,nantucket
+206,mg,taolanaro
+207,gl,upernavik
+208,pf,atuona
+209,ar,ushuaia
+210,br,arraial do cabo
+211,us,barrow
+212,dk,jaegerspris
+213,ck,avarua
+214,sa,umm lajj
+215,za,hermanus
+216,mu,souillac
+217,so,barawe
+218,sl,bonthe
+219,is,olafsvik
+220,us,fortuna
+221,in,kavaratti
+222,ca,norman wells
+223,nz,bluff
+224,ca,thompson
+225,pf,mataura
+226,uz,karauzyak
+227,ca,gimli
+228,au,new norfolk
+229,us,hilo
+230,ru,zapolyarnyy
+231,mu,bambous virieux
+232,cv,sao filipe
+233,pf,mataura
+234,gl,sisimiut
+235,za,hermanus
+236,cl,punta arenas
+237,mu,grand gaube
+238,pf,rikitea
+239,mx,san patricio
+240,pw,airai
+241,gf,cayenne
+242,us,kapaa
+243,ar,ushuaia
+244,gl,upernavik
+245,pf,mataura
+246,au,port macquarie
+247,gl,ilulissat
+248,za,port alfred
+249,us,nantucket
+250,pf,rikitea
+251,bw,tonota
+252,sh,jamestown
+253,za,hermanus
+254,ru,amderma
+255,to,vaini
+256,gl,tasiilaq
+257,ck,avarua
+258,no,andenes
+259,za,east london
+260,pf,rikitea
+261,ao,luanda
+262,pf,rikitea
+263,ca,yarmouth
+264,us,kodiak
+265,uz,karauzyak
+266,us,half moon bay
+267,ck,avarua
+268,au,hobart
+269,mg,taolanaro
+270,au,broken hill
+271,kz,beyneu
+272,ki,tabiauea
+273,cn,erenhot
+274,sh,jamestown
+275,au,hobart
+276,gl,kangaatsiaq
+277,cv,ponta do sol
+278,gl,qaanaaq
+279,us,barrow
+280,ec,puerto ayora
+281,us,kapaa
+282,au,carnarvon
+283,pg,kavieng
+284,pf,mataura
+285,ca,clyde river
+286,br,sao jose
+287,us,kapaa
+288,lr,buchanan
+289,pe,lima
+290,ca,moose factory
+291,ru,tumannyy
+292,ki,butaritari
+293,za,port alfred
+294,ru,kamenskoye
+295,ar,ushuaia
+296,ru,mys shmidta
+297,sj,barentsburg
+298,in,leh
+299,cn,xingcheng
+300,ck,avarua
+301,za,kruisfontein
+302,ca,norman wells
+303,br,maceio
+304,au,new norfolk
+305,ar,mar del plata
+306,sb,honiara
+307,us,fortuna
+308,za,cape town
+309,ao,namibe
+310,pf,rikitea
+311,ru,provideniya
+312,ph,san vicente
+313,ru,tura
+314,mg,taolanaro
+315,au,busselton
+316,ck,avarua
+317,no,sorland
+318,ca,prince rupert
+319,ar,ushuaia
+320,ki,butaritari
+321,sj,barentsburg
+322,ca,port hawkesbury
+323,nz,bluff
+324,to,vaini
+325,za,port elizabeth
+326,ci,korhogo
+327,mx,constitucion
+328,ly,jalu
+329,ar,ushuaia
+330,cn,fuyang
+331,pf,rikitea
+332,us,bethel
+333,ga,cocobeach
+334,nz,bluff
+335,au,busselton
+336,sb,lata
+337,cl,punta arenas
+338,no,vardo
+339,kz,saryshagan
+340,mg,taolanaro
+341,au,hobart
+342,sh,georgetown
+343,us,lewistown
+344,au,new norfolk
+345,ar,ushuaia
+346,pf,rikitea
+347,us,college
+348,ca,yellowknife
+349,gl,illoqqortoormiut
+350,ca,norman wells
+351,eg,aswan
+352,ca,kapuskasing
+353,td,am timan
+354,re,saint-philippe
+355,us,kapaa
+356,uy,chuy
+357,us,college
+358,pg,daru
+359,cl,lebu
+360,ar,ushuaia
+361,gl,ilulissat
+362,cd,bunia
+363,au,busselton
+364,pt,ribeira grande
+365,ru,krasnoselkup
+366,za,kruisfontein
+367,pe,hualmay
+368,cl,punta arenas
+369,ca,haines junction
+370,re,saint-philippe
+371,ru,taksimo
+372,so,bargal
+373,ca,clyde river
+374,au,northam
+375,ru,bilibino
+376,ca,yellowknife
+377,pf,mataura
+378,ec,puerto ayora
+379,za,port alfred
+380,id,palabuhanratu
+381,ca,fort nelson
+382,au,mount gambier
+383,cl,punta arenas
+384,gl,qaanaaq
+385,pf,mataura
+386,au,albany
+387,au,albany
+388,ca,port hardy
+389,cn,yining
+390,au,yulara
+391,pf,atuona
+392,us,ada
+393,ru,mys shmidta
+394,us,sterling
+395,us,palmer
+396,mx,charcas
+397,au,busselton
+398,au,new norfolk
+399,nz,amberley
+400,gl,qaanaaq
+401,au,carnarvon
+402,us,barrow
+403,id,palabuhanratu
+404,gl,upernavik
+405,pf,mataura
+406,km,mitsamiouli
+407,za,east london
+408,pe,marcona
+409,au,new norfolk
+410,kz,zhezkazgan
+411,au,albany
+412,br,amapa
+413,pf,rikitea
+414,uy,chuy
+415,ru,kadykchan
+416,ru,dikson
+417,cn,zhangye
+418,au,albany
+419,pf,rikitea
+420,pk,kandiari
+421,dz,constantine
+422,au,new norfolk
+423,za,hermanus
+424,au,albany
+425,mu,mahebourg
+426,wf,vaitupu
+427,mg,taolanaro
+428,cl,castro
+429,gl,qaanaaq
+430,pt,lagoa
+431,ru,ksenyevka
+432,mx,san quintin
+433,ru,provideniya
+434,ar,ushuaia
+435,pf,mataura
+436,ru,chokurdakh
+437,au,albany
+438,za,cape town
+439,ar,ushuaia
+440,ar,ushuaia
+441,au,port hedland
+442,ph,gigmoto
+443,es,los llanos de aridane
+444,ru,suntar
+445,za,port elizabeth
+446,re,saint-philippe
+447,cn,liling
+448,ve,guanare
+449,ke,lamu
+450,mr,nouadhibou
+451,us,lompoc
+452,ca,sept-iles
+453,us,las vegas
+454,ke,lodwar
+455,mx,guadalajara
+456,om,salalah
+457,ar,ushuaia
+458,au,hobart
+459,ru,saskylakh
+460,tm,kaka
+461,ma,agadir
+462,au,busselton
+463,sh,jamestown
+464,br,caravelas
+465,ru,dikson
+466,th,si sa ket
+467,sc,victoria
+468,at,zwettl
+469,id,bengkulu
+470,ru,nizhneyansk
+471,pf,mataura
+472,cn,jinchang
+473,uy,chuy
+474,us,arroyo
+475,za,port elizabeth
+476,ec,puerto ayora
+477,gb,boddam
+478,fo,klaksvik
+479,dz,adrar
+480,ru,novyy urengoy
+481,ng,kishi
+482,pf,atuona
+483,nz,bluff
+484,id,ende
+485,wf,halalo
+486,za,bredasdorp
+487,ar,ushuaia
+488,us,nantucket
+489,sh,jamestown
+490,ca,clyde river
+491,za,port alfred
+492,ar,ushuaia
+493,cn,shenjiamen
+494,us,kahului
+495,ru,provideniya
+496,pa,la palma
+497,jp,muroto
+498,br,arraial do cabo
+499,pe,marcona
